@@ -73,6 +73,7 @@ The image shown below is a 3x3 grid of sample images from the Fashion MNIST trai
 
 output:
 <img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/81d6b811-f7bd-4c56-8c22-46be40dfba04" />
+<img width="1049" height="642" alt="Image" src="https://github.com/user-attachments/assets/5b825c3c-985b-4798-a24d-e1a4a0ad41c1" />
 
 
 
