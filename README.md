@@ -71,6 +71,10 @@ Even though the model was trained on the basic Fashion MNIST dataset, the archit
 OUTPUT:
 The image shown below is a 3x3 grid of sample images from the Fashion MNIST training dataset. Each image is 28x28 pixels and represents a type of clothing item, such as a T-shirt, sandal, sneaker, or pullover. These images were used to train the CNN model to identify patterns and classify them into one of 10 categories. Labels like "Label: 0" refer to the integer class index in the dataset, which corresponds to specific clothing types. This visual confirms that the dataset was correctly loaded and understood by the model during training.
 
+output:
+<img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/81d6b811-f7bd-4c56-8c22-46be40dfba04" />
+
+
 
 
 
